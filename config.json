@@ -93,7 +93,7 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "TV-暴风资源",
       "is_adult": false
-    }，
+    },
     "zuidazy": {
       "api": "http://zuidazy.me/api.php/provide/vod",
       "name": "TV-最大点播",

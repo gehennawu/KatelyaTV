@@ -99,7 +99,7 @@
       "name": "TV-最大点播",
       "detail": "http://zuidazy.me",
       "is_adult": false
-    }，
+    },
     "zuidapi": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "TV-最大资源",
@@ -111,7 +111,7 @@
       "name": "TV-电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com",
       "is_adult": false
-    }，
+    },
     "hongniuzy2": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "name": "TV-红牛资源",
